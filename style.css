@@ -5,6 +5,17 @@
     font-style: normal;
     font-family: 'Barlow';
 }
+.opacity{
+    position: absolute;
+    
+}
+
+.image2 img{
+    position: relative;
+}
+
+
+
 .image2-mobile, .image3-mobile, .image1-mobile {
     display: block;
 }
@@ -260,6 +271,20 @@ footer{
 
 
 @media screen and (min-width:768px){
+    .opacity{
+    width:214px;
+    height:320px;
+    background-color: #F16718;
+    
+    
+}
+.image2 img{
+    position: relative;
+}
+    
+    
+    
+    
     .container{
         display:flex;
         flex-wrap: wrap;
