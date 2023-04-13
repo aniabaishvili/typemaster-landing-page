@@ -5,14 +5,7 @@
     font-style: normal;
     font-family: 'Barlow';
 }
-.opacity{
-    position: absolute;
-    
-}
 
-.image2 img{
-    position: relative;
-}
 
 
 
@@ -271,16 +264,7 @@ footer{
 
 
 @media screen and (min-width:768px){
-    .opacity{
-    width:214px;
-    height:320px;
-    background-color: #F16718;
-    
-    
-}
-.image2 img{
-    position: relative;
-}
+
     
     
     
